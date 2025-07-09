@@ -1,5 +1,6 @@
 {
-  "dependencies": {
-    "yarn": "^1.22.22"
+  "dependencies": {},
+  "devDependencies": {
+    "@biomejs/biome": "2.1.1"
   }
 }
