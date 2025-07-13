@@ -6,7 +6,7 @@
   "remoteUser": "root",
   "customizations": {
     "vscode": {
-      "extensions": ["biomejs.biome"]
+      "extensions": ["biomejs.biome", "bradlc.vscode-tailwindcss"]
     },
     "settings": {
       "terminal.integrated.defaultProfile.linux": "bash"
